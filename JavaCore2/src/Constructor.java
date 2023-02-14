@@ -10,6 +10,8 @@ class Students {
 	}
 	
 	void Takedata(){
+		System.out.println("Hello world");
+
 		System.out.println("Öğrenci numarası: " + studentNum + " Öğrenci Adı: " + studentName + " Okulu : " + school);
 	}
 }
