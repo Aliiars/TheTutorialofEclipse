@@ -11,7 +11,7 @@ public class Arraylistt {
 		arr.add("Giresun");
 		
 		arr.add(0,"KahramanMaraş");
-		arr.remove(1);
+		arr.remove(1); 
 		
 		Iterator itr = arr.iterator();
 		
